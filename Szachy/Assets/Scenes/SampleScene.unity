@@ -235,8 +235,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adce34b5a12d4db498938ec878205f46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tile: {fileID: 6767408479161204214, guid: fd9359bad53702c40ae1b967f09ca5d4, type: 3}
+  tile: {fileID: 3604071090489497568, guid: fd9359bad53702c40ae1b967f09ca5d4, type: 3}
   camera: {fileID: 805080429}
+  _pawn: {fileID: 8162656658068630664, guid: 5023ec31e66096b4c9765db81e6f829d, type: 3}
 --- !u!4 &1341645335
 Transform:
   m_ObjectHideFlags: 0
